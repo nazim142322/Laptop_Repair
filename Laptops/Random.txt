@@ -5,5 +5,24 @@ Board View
 DSO
 (Digital Storage Oscilloscope) is modern, sampling signals into digital data for LCD display,
 
+Impedance
+
 BEST LAPTOP REPAIRING TOOLS
 https://www.youtube.com/watch?v=q6Wz6DxTLzY
+
+
+
+How a Zener Diode Works
+https://www.youtube.com/shorts/WfWQo9Z8v7Y
+
+Is Your LCR Circuit REALLY Optimized for Voltage and Current?
+https://www.youtube.com/shorts/Wz_OfMWxZ9U
+
+Simple MOSFET Tester Circuit | N-Channe
+https://www.youtube.com/shorts/1O44aDJsDWs
+
+Transistor Test & Pins Identification
+https://www.youtube.com/shorts/nbWdMgXbq_0
+
+SMD Capacitor Test With Digital Multimeter
+https://www.youtube.com/shorts/t8FKN555Mhk
