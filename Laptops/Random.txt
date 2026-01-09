@@ -1,4 +1,4 @@
-Schemetics
+Schematics
 and 
 Board View
 
