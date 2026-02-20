@@ -1,0 +1,4 @@
+Motherboard Power Rails and Circuits Explained - Laptop +VBAT, 3V, 5V, 1.8V, 1.5V, +VTT, CPUCORE…
+https://www.youtube.com/watch?v=_pBIUbRdqR8
+
+
