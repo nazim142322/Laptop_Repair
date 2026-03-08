@@ -1,0 +1,8 @@
+Capacitor
+1- Filter(pure) krne ke liye
+AC ko alag and DC ko alag karta hai
+2- Current kko strore krta hai short time ke liye
+
+Coil
+1- kisi bhi electric current ko as a magent ke room me store krta hai
+2- AC to rookta hai and DC ko aage jane deta hai

@@ -1,0 +1,6 @@
+Mosfet 
+it is a heavy duty component
+use in power source/ jaha par load dya jata hai
+
+Transiter
+Singnal level jese jaha par jakar point ko trigger krna hai/ kisi point ko signal bhejna hai..

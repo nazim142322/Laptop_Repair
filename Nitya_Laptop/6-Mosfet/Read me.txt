@@ -1,0 +1,15 @@
+N Channel
+Drain(source - input ) 19 volt
+Gate - 21 volt (2 volt high)
+Source (output) par full voltage milega 
+
+As Diode activate
+Source (input)- 19.14 volt
+Drain (output)- 18.77 volt (max 0.7 drop)
+Gate no voltage
+
+No mosfet activate (for same output)
+Source (input)- 19 volt
+Drain (output)- 19 volt 
+Gate - 21 volt
+

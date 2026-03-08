@@ -1,0 +1,3 @@
+Register or in series sirf current kam krega agar us par load/ground nhi hai
+
+voltage kam krne ke liye load ya ground(for voltage devider) krna padega
