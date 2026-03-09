@@ -1,3 +1,11 @@
-Register or in series sirf current kam krega agar us par load/ground nhi hai
+Register or in series sirf current kam krega agar us par load/ground nhi hai, across voltage same milega
 
 voltage kam krne ke liye load ya ground(for voltage devider) krna padega
+agar resistor par load decide kr dya jaye to resistor current and voltage dono kam krega.
+
+Note 
+Voltage kisi bhi signal ko ek side se dusri side le jane keliye
+
+Load - voltage aur ground ke beech resistance ko load kehte hai
+
+Pull Down - voltage ko instance discharge krne ke liye use krte hai..
