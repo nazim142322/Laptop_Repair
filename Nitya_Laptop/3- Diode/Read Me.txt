@@ -1,5 +1,5 @@
 Use cases
-1- Protection/limit/regulation - jitna current jarurat hai utna de
+1- Protection/limit/regulation - jitna current jarurat hai utna de (zener)
 
 2- Reverse current protection
 Current ko ek hi disha me flow krta hai..
