@@ -1,4 +1,4 @@
 1- one way
 2- Regulator
 3- Protection - no resistor
-Zine used in Series and parallal
+Zener is used in Series and parallal
