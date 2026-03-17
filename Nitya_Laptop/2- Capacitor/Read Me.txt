@@ -1,7 +1,12 @@
 Capacitor
 1- Filter(pure) krne ke liye
 AC ko alag and DC ko alag karta hai
+AC Pass krega aur DC ko rokega
 2- Current ko strore krta hai short time ke liye
+
+Use cases
+power line - paralal 
+Data line - Series
 
 Coil
 1- kisi bhi electric current ko as a magent ke room me store krta hai
