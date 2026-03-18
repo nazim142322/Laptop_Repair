@@ -9,5 +9,5 @@ power line - paralal
 Data line - Series
 
 Coil
-1- kisi bhi electric current ko as a magent ke room me store krta hai
+1- Electric current ko as a magent ke room me store krta hai
 2- AC to rookta hai and DC ko aage jane deta hai
