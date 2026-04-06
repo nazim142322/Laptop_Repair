@@ -10,3 +10,10 @@ Pull Up - Voltage kisi bhi signal ko ek side se dusri side le jane keliye
 Load - voltage aur ground ke beech resistance ko load kehte hai
 
 Pull Down - voltage ko instance discharge krne ke liye use krte hai..
+
+Testing - off board
+dono side se same value
+on board
+dono side same value ho bhi sakta hai aur nhi bhi...
+
+note: check first - low value register high value show kr sakta hai....
