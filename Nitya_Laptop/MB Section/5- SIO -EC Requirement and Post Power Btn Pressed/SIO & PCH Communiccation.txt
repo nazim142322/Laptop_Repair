@@ -1,0 +1,6 @@
+Sio to Pch communication explain
+https://www.youtube.com/watch?v=KsZqLUyzYms
+
+SIO to PCH(system power management section)
+
+for no power on & no display case
