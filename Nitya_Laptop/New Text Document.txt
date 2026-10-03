@@ -1,0 +1,2 @@
+Dual Output for 3volt always supply
+2 enable - LDO, Regulator Supply
